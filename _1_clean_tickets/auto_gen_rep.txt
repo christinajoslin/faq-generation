@@ -1,0 +1,28 @@
+Changed.*?from.*?to.*?\.
+Took primary responsibility for this service (request from .*?)?\.
+Added this .*? to .*? list\.
+Added .*? as a contact for this service request\.
+Reassigned this service request from .*? to .*?\.
+Some people who received this message don\'t often get email from.*?Learn why this is important
+\"\"\"\"Deleted the \"\"\w*?\"\" task from this service request\.
+Added related .*? \(ID: \d+\)\.
+Added subtask \".*?\.
+Assigned .*? to .*?\.
+Created draft revision\.
+Committed Revision .*?\"
+Committed Revision \d+
+Deleted the .*? from this service request\.
+Called back to leave her phone number
+\[Merged from ticket \d*\]
+Automatically took this ticket off hold
+No response, mark as resolved
+Took primary responsibility for this service request
+Edited this service request
+ticket closed
+Made group changes requested
+Posted By: Purdue IT Service \<\> This message was proxied because the email address \<\> was not found on any active Customer or User in the system. Further replies to this comment may no longer notify \<\>
+\[Created from ticket \d*\]
+Consulted with .*?\, sending to .*?\"
+\[You don't often get email from .*? Learn why this is important at https\:\/\/aka\.ms\/LearnAboutSenderIdentification \]
+Attempting to change.*?rule.
+Removed this service request from.*?list.
