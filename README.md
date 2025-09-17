@@ -1,4 +1,4 @@
-# FACT: FAQ Automation by Clustering Tickets
+# CLiFF (Clustering & Language model integration for FAQ Formation)
 
 ## About the Project 
 FACT is a research-driven pipeline that automates the generation of *frequently asked questions* (FAQs) from technical support tickets in *high-performance computing* (HPC) environments. It aims to reduce  support ticket volume and streamline issue resolution through the use of Natural Language Processing (NLP), semantic embeddings, and instruction-tuned Large Language Models (LLMs).
