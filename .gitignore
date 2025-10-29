@@ -2,3 +2,4 @@
 db_creds.txt
 */__pycache__
 **/cache
+_1_clean_tickets/*.csv
