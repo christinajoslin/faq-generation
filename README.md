@@ -10,6 +10,7 @@ This project was designed to adapt to evolving support trends through dynamic, d
 - **Semantic subclustering** of ticket issues, followed by ranking and selection of subclusters by size, cohesion, and separation
 - **LLM-based FAQ generation** for each high-quality subcluster
 
+**Full Paper:** 
 --- 
 
 ## Pipeline Overview
@@ -55,8 +56,8 @@ Each pipeline stage directory contains:
     <br>
     You can either:
     - Execute the scripts directly for production runs, or
-    - Use the provided Jupyter notebooks for testing, training, and experimentation  
-
+    - Use the provided Jupyter notebooks for testing, training, and experimentation
+      
 --- 
 
 ## Project Team
@@ -64,4 +65,16 @@ Each pipeline stage directory contains:
 - **Christina Joslin** — Primary Author, Student Intern   
 - **David Burns** — Co-author, Student Intern  
 - **Ashish** — Mentor, Senior Research Data Scientist 
-- **Elham J. Barezi, PhD** — Technical Advisor, Lead Research AI Scientist  
+- **Elham J. Barezi, PhD** — Technical Advisor, Lead Research AI Scientist
+
+--- 
+
+## Citation
+
+Joslin, C., Burns, D., Ashish, A., & Barezi, E. J. (2025, November). Generating Frequently Asked Questions from Technical Support
+Tickets using Large Language Models. *Proceedings of the SC ’25 Workshops of the International Conference for High
+Performance Computing, Networking, Storage, and Analysis* (pp. 715-726). Association for Computing Machinery.
+https://doi.org/10.1145/3731599.3767429
+
+
+
