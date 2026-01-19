@@ -9,8 +9,15 @@ This project was designed to adapt to evolving support trends through dynamic, d
 - **Summarization** of ticket content into issue-resolution pairs using LLMs
 - **Semantic subclustering** of ticket issues, followed by ranking and selection of subclusters by size, cohesion, and separation
 - **LLM-based FAQ generation** for each high-quality subcluster
+  
+--- 
 
-**Full Paper:** 
+## Data Availability
+
+The raw and cleaned support ticket datasets used in this project are **not included** in this public repository due to privacy, confidentiality, and institutional data restrictions.
+
+This repository provides the full pipeline implementation (cleaning, summarization, clustering, and FAQ generation) so the workflow can be reproduced on comparable datasets with a similar schema.
+
 --- 
 
 ## Pipeline Overview
