@@ -94,7 +94,6 @@ Due to inconsistent formatting across three sources, the cleaning steps differ s
 --- 
 
 ## Folder Contents
-*(\*\*Cleaned ticket files available upon request.)*
 - `clean_tickets_anvil.py`: Cleans tickets from the Anvil Jira dataset.
 - `clean_tickets_postgres.py`: Cleans tickets from the Purdue Footprints (Postgres) dataset.
 - `clean_tickets_tdx.py`: Cleans tickets from the Purdue Team Dynamix (TDX) dataset.
