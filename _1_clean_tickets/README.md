@@ -94,13 +94,14 @@ Due to inconsistent formatting across three sources, the cleaning steps differ s
 --- 
 
 ## Folder Contents
+> **Note:** The cleaned ticket CSV outputs are not included due to privacy/internal data restrictions. 
 - `clean_tickets_anvil.py`: Cleans tickets from the Anvil Jira dataset.
 - `clean_tickets_postgres.py`: Cleans tickets from the Purdue Footprints (Postgres) dataset.
 - `clean_tickets_tdx.py`: Cleans tickets from the Purdue Team Dynamix (TDX) dataset.
 - `cluster_selection.py`: Performs initial cluster selection and anomaly filtering.
-- **`init_anvil_cln_tkts.csv`: Output file containing cleaned Anvil tickets.
-- **`init_postgres_cln_tkts.csv`: Output file containing cleaned Postgres tickets.
-- **`init_tdx_cln_tkts.csv`: Output file containing cleaned TDX tickets.
+- `init_anvil_cln_tkts.csv`: Output file containing cleaned Anvil tickets.
+- `init_postgres_cln_tkts.csv`: Output file containing cleaned Postgres tickets.
+- `init_tdx_cln_tkts.csv`: Output file containing cleaned TDX tickets.
 - `names.parquet`: List of common staff member names to be anonymized or replaced. (*Note:* Parquet is a columnar storage format used for efficient data processing.)
 - `auto_gen_rep.txt`: Text file listing frequently observed auto-generated ticket elements.
 - `clean_all_tickets.sh`: Bash script used to run all ticket-cleaning scripts.
