@@ -39,7 +39,7 @@ The CLiFF pipeline processes support tickets through the following steps:
 - `/2_summarize_tickets`: Summarizes ticket content using an instruction-tuned LLM  
 - `/3_select_tickets`: Embeds, subclusters, and ranks high-quality ticket groupings  
 - `/4_generate_faqs`: Generates one FAQ per top-ranked subcluster  
-- `FACT_Pipeline_Diagram.png`: Visual representation of the pipeline  
+- `CLiFF_Pipeline_Diagram.png`: Visual representation of the pipeline  
 - `requirements.txt`: Python libraries needed to run the pipeline  
 
 Each pipeline stage directory contains:
